@@ -1,4 +1,4 @@
-Excel functions for combining text values<br>
+<h3>Excel functions for combining text values<br>
 
 <br> = CONCATENATE(A7,"-",B7)
 <br> = H2&"-"&I2&"-"&J2 
