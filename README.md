@@ -1,1 +1,1 @@
-<b> Excel functions for combining text values
+Excel functions for combining text values
