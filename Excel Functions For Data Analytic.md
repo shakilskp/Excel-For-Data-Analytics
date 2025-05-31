@@ -5,3 +5,4 @@
 <br> = CONCAT(A2,"-",B2) 
 <br> = TEXTJOIN("-",TRUE,H3:J3) 
 
+<b>02. Combining text functions
