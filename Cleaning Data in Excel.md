@@ -1,4 +1,4 @@
-<b> Cleaning Data in Excel
+<b> Data Cleaning in Excel
 <br>
 <br>1. Extract name using -- Flash Fill ( Control E )
 <br>
